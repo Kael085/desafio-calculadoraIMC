@@ -1,12 +1,22 @@
-# React + Vite
+# Calculadora em JavaScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
+Calculadora simples feita com HTML, CSS e JavaScript. Mostra como manipular DOM, eventos e lógica de cálculo.
 
-Currently, two official plugins are available:
+## Como usar
+1. Abra o Replit e clique em **Run**.
+2. Na janela do navegador, use a calculadora normalmente:
+   - Clique nos números e operações.
+   - Veja o resultado ao clicar em `=`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades
+- Operações básicas: +, -, *, /
+- Limpar tela
+- Interface simples e responsiva
 
-## Expanding the ESLint configuration
+## Aprendizados
+- Manipulação de eventos com JS (`addEventListener`).
+- Lógica de cálculo e controle de fluxo.
+- Integração entre HTML, CSS e JS.
+- Teste e correção de bugs.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
